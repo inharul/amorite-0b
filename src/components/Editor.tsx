@@ -30,7 +30,8 @@ const customCompletions = (context: CompletionContext) => {
       { label: "Christopher", type: "constant" },
       { label: "David", type: "constant" },
       { label: "Daniel", type: "constant" },
-      { label: "Diana", type: "constant" },
+      { label: "Diana", type: "character" },
+      { label: "own", type: "constant" },
     ],
   };
 };
@@ -41,7 +42,7 @@ const MyEditor: React.FC = () => {
     if (!editorRef.current) return;
 
     const startState = EditorState.create({
-      doc: "# Hello World\n\nStart writing in markdown...",
+      doc: "Because _you_ need a place which...\n1. you can fully explore\n2. ...and **shape** on your ow",
       extensions: [
         minimalSetup,
         keymap.of([...defaultKeymap, ...completionKeymap]),
@@ -129,7 +130,13 @@ const MyEditor: React.FC = () => {
     };
   }, []);
 
-  return <div ref={editorRef} className="h-full"></div>;
+  return (
+    <div
+      ref={editorRef}
+      className="h-full"
+      style={{ fontFamily: "Arial" }}
+    ></div>
+  );
 };
 
 export default MyEditor;
