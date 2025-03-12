@@ -7,13 +7,13 @@ This repository stores the prototype of project `amorite` which is focused towar
 > We are building the features, so you can create your own place for writing with it.
 
 <!-- Preview -->
+![amorite-0b-preview](https://github.com/user-attachments/assets/6dcdde88-96de-4100-ad0c-0433e8eb75eb)
 
 **As of now, we are trying to create a working demo for our beta testers and collecting feedback only.**
 
 > [!NOTE]
->
-> 1. Even fully working **features may be deprecated** or rebuilt from the ground up **based on feedback and our evolving philosophy**.
-> 2. **Any current technology, framework, or tooling** we are using **does not dictate** what we might use in **the future**.
+> - Even fully working **features may be deprecated** or rebuilt from the ground up **based on feedback and our evolving philosophy**.
+> - **Any current technology, framework, or tooling** we are using **does not dictate** what we might use in **the future**.
 
 ---
 
@@ -21,9 +21,9 @@ This repository stores the prototype of project `amorite` which is focused towar
 
 If you are a tester or have been directed here by the developer or a fellow tester, please read the following:
 
-1. The **latest version of the app will always be available as the [latest release](https://github.com/inharul/amorite-0b/releases) on the right-hand side**.
-2. To download, click on "Assets" and find the installer or executable for your operating system. **[Web users can ignore this.]**
-3. You’re encouraged to explore new features and share your feedback _(which I genuinely appreciate and love to hear)_—via the Discord community, the friend who introduced you to the project, or directly with me (the best way amongst all).
+- The **latest version of the app will always be available as the [latest release](https://github.com/inharul/amorite-0b/releases) on the right-hand side**.
+- To download, click on "Assets" and find the installer or executable for your operating system. **[Web users can ignore this.]**
+- You’re encouraged to explore new features and share your feedback _(which I genuinely appreciate and love to hear)_—via the Discord community, the friend who introduced you to the project, or directly with me (the best way amongst all).
 
 ## Source Code
 
