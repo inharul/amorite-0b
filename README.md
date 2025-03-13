@@ -17,7 +17,7 @@ This repository stores the prototype of project `amorite` which is focused towar
 
 ---
 
-## ❤️For Testers
+## ❤️ For Testers
 
 If you are a tester or have been directed here by the developer or a fellow tester, please read the following:
 
